@@ -42,6 +42,8 @@ public class WindowHandling {
 		String parentWindowText=driver.findElement(By.xpath("//div[@class='main-header']")).getText();
 		System.out.println("Parent window text-->"+parentWindowText);
 		Thread.sleep(2000);
+		
+		
 
 		
 		
