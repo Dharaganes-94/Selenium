@@ -60,7 +60,8 @@ public class GreenKartDiscount {
   		System.out.println("TotalPrice after calculation-->"+totPrice);
 	
 	}
-
+		
+		List<WebElement> discount =driver.findElements(By.)
 }
 	
 }
